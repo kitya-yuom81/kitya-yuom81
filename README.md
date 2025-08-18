@@ -3,9 +3,6 @@
 <!-- Profile details / journey -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitya-yuom81&theme=github_dark)
 
-<!-- Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitya-yuom81&show_icons=true&theme=github_dark)
-
 <!-- Most used languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitya-yuom81&layout=compact&theme=github_dark)
 
