@@ -6,8 +6,9 @@
 <!-- Most used languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitya-yuom81&layout=compact&theme=github_dark)
 
-<!-- Streak -->
-![Streak](https://streak-stats.demolab.com?user=kitya-yuom81&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kitya-yuom81&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=kitya-yuom81&theme=tokyonight&hide_border=true)
+
 
 <!-- Contribution activity graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitya-yuom81&theme=github-dark)
