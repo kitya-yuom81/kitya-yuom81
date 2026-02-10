@@ -46,6 +46,10 @@
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300B140.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitya-yuom81&layout=compact&theme=tokyonight)
+
+
 
 
 <picture>
