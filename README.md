@@ -75,4 +75,15 @@ I am currently working on and competing with a **Fullstack Web Application** cal
 
 AUPP Connect is a networking platform designed to connect students, alumni, and professionals through messaging, mentorship, and career opportunities.
 
+## 🎯 Future Goals
+
+My long-term goal is to specialize in **Spring Boot Microservices Development** and enterprise backend engineering.
+
+I am passionate about designing:
+- Scalable distributed systems
+- Cloud-native applications
+- High-performance backend services
+- Secure and maintainable system architecture
+
+
 
