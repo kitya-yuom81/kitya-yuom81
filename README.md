@@ -94,15 +94,18 @@ The mission of ScholarAI is to reduce educational inequality by providing access
 
 ---
 
-### 🌐 AUPP Connect — Full-Stack Networking Platform
+## 🌐 AUPP Connect — Full-Stack Networking Platform (In Development)
 
 AUPP Connect is a full-stack web application designed to connect students, alumni, and professionals through mentorship, messaging, and career opportunities.
 
-Key focuses:
-- Secure authentication system  
-- REST API architecture  
-- Scalable backend services  
-- Structured database modeling
+I currently lead the frontend development and UX/UI design, focusing on creating a clean, intuitive, and scalable user experience.
+
+Key responsibilities:
+- Designing and implementing responsive UI components  
+- Structuring frontend architecture using modern frameworks  
+- Ensuring consistent UX flow and usability  
+- Collaborating on backend API integration  
+
 ---
 
 ## 🎯 Long-Term Vision
