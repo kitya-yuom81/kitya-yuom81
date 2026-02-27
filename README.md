@@ -78,21 +78,34 @@
 
 
 
-## 🚀 Current Project
+## 🚀 Current Projects
 
-I am currently working on and competing with a **Fullstack Web Application** called **AUPP Connect**.
+### 🤖 ScholarAI — AI-Powered Study Assistant
 
-AUPP Connect is a networking platform designed to connect students, alumni, and professionals through messaging, mentorship, and career opportunities.
+ScholarAI is a Telegram-based AI study assistant designed to improve access to personalized learning.
 
-## 🎯 Future Goals
+It integrates:
+- AI-generated quizzes and explanations  
+- Study tracking and analytics  
+- Smart reminders and goal monitoring  
 
-My long-term goal is to specialize in **Spring Boot Microservices Development** and enterprise backend engineering.
-
-I am passionate about designing:
-- Scalable distributed systems
-- Cloud-native applications
-- High-performance backend services
-- Secure and maintainable system architecture
+The mission of ScholarAI is to reduce educational inequality by providing accessible, low-cost digital learning tools for students in developing regions.
 
 
+---
 
+### 🌐 AUPP Connect — Full-Stack Networking Platform
+
+AUPP Connect is a full-stack web application designed to connect students, alumni, and professionals through mentorship, messaging, and career opportunities.
+
+Key focuses:
+- Secure authentication system  
+- REST API architecture  
+- Scalable backend services  
+- Structured database modeling
+---
+
+## 🎯 Long-Term Vision
+
+My long-term goal is to specialize in AI-driven systems and enterprise backend development, building technology solutions that bridge digital divides and empower youth globally.
+ 
