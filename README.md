@@ -78,35 +78,7 @@
 
 
 
-## 🚀 Current Projects
 
-### 🤖 ScholarAI — AI-Powered Study Assistant
-
-ScholarAI is a Telegram-based AI study assistant designed to improve access to personalized learning.
-
-It integrates:
-- AI-generated quizzes and explanations  
-- Study tracking and analytics  
-- Smart reminders and goal monitoring  
-
-The mission of ScholarAI is to reduce educational inequality by providing accessible, low-cost digital learning tools for students in developing regions.
-
-
----
-
-## 🌐 AUPP Connect — Full-Stack Networking Platform (In Development)
-
-AUPP Connect is a full-stack web application designed to connect students, alumni, and professionals through mentorship, messaging, and career opportunities.
-
-I currently lead the frontend development and UX/UI design, focusing on creating a clean, intuitive, and scalable user experience.
-
-Key responsibilities:
-- Designing and implementing responsive UI components  
-- Structuring frontend architecture using modern frameworks  
-- Ensuring consistent UX flow and usability  
-- Collaborating on backend API integration  
-
----
 
 ## 🎯 Long-Term Vision
 
